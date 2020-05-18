@@ -45,7 +45,7 @@ Personas recuperadas por ciudad:
 ![consulta-2](screenshots/recuperadosporciudad.jpeg)
 
 Casos en situación de estudio por departamento:
-![consulta-3](screenshots/enestudiopordepartamento.jpeg)
+![consulta-3](screenshots/estudiopordepartamento.jpeg)
 
 Personas menores de 25 años fallecidas por departamento:
 ![consulta-1](screenshots/menores25.jpeg)
