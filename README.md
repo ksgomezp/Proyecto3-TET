@@ -6,8 +6,8 @@
 ## TRABAJO 3 - SPARK sobre COVID-19
 
 ## Intgrantes:
-### Kevyn Santiago Gómez Patiño
-### Santiago Castrillon Galvis
+- Kevyn Santiago Gómez Patiño
+- Santiago Castrillon Galvis
 
 ## Analisis exploratorio de datos sobre datasets de COVID-19:
 
