@@ -1,15 +1,15 @@
-# Proyecto3-TET
-# Universidad EAFIT
-# Curso ST0263 Tópicos Especiales en Telemática, 2020-1
-# Profesor: Edwin Montoya M. – emontoya@eafit.edu.co
+## Proyecto3-TET
+## Universidad EAFIT
+## Curso ST0263 Tópicos Especiales en Telemática, 2020-1
+## Profesor: Edwin Montoya M. – emontoya@eafit.edu.co
 
-# TRABAJO 3 - SPARK sobre COVID-19
+## TRABAJO 3 - SPARK sobre COVID-19
 
-# Intgrantes:
+## Intgrantes:
 ## Kevyn Santiago Gómez Patiño
 ## Santiago Castrillon Galvis
 
-# Analisis exploratorio de datos sobre datasets de COVID-19:
+## Analisis exploratorio de datos sobre datasets de COVID-19:
 
 ## 1. Fuentes de datos
 
