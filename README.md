@@ -38,6 +38,23 @@ https://data.humdata.org/dataset/positive-cases-of-covid-19-in-colombia
 
 ### análisis descriptivo exploratorio
 
+Fallecidos por sexo:
+![consulta-1](screenshots/fallecidosporsexo.jpeg)
+
+Personas recuperadas por ciudad:
+![consulta-2](screenshots/recuperadosporciudad.jpeg)
+
+Casos en situación de estudio por departamento:
+![consulta-3](screenshots/enestudiopordepartamento.jpeg)
+
+Personas menores de 25 años fallecidas por departamento:
+![consulta-1](screenshots/menores25.jpeg)
+
+Personas mayores de 25 años fallecidas por departamento:
+![consulta-1](screenshots/mayores25.jpeg)
+
+
+
 ## 4. Visualización básica de datos
 
 ### 4.1 situación a nivel mundial
