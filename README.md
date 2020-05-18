@@ -59,14 +59,14 @@ Personas mayores de 25 años fallecidas por departamento:
 
 ### 4.1 situación a nivel mundial
 Casos activos por país:
-![consulta-1](screenshots/Activos.jpeg)
+![consulta-1](screenshots/Activos.jpg)
 
 ### 4.2 Situación en Colombia
 Muertes por edad en Colombia entre 0 y 30 años:
-![consulta-1](screenshots/Muertes.jpeg)
+![consulta-1](screenshots/Muertes.jpg)
 
 ### 4.3 Colombia vs Mundo
 Casos confirmados:
-![consulta-1](screenshots/Vs1.jpeg)
-![consulta-1](screenshots/Vs2.jpeg)
+![consulta-1](screenshots/Vs1.jpg)
+![consulta-1](screenshots/Vs2.jpg)
 
