@@ -6,18 +6,18 @@
 ## TRABAJO 3 - SPARK sobre COVID-19
 
 ## Intgrantes:
-## Kevyn Santiago Gómez Patiño
-## Santiago Castrillon Galvis
+### Kevyn Santiago Gómez Patiño
+### Santiago Castrillon Galvis
 
 ## Analisis exploratorio de datos sobre datasets de COVID-19:
 
 ## 1. Fuentes de datos
 
-### a nivel mundial::
+### a nivel mundial:
 
 https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
 
-### a nivel colombia::
+### a nivel colombia:
 
 https://data.humdata.org/dataset/positive-cases-of-covid-19-in-colombia
 
