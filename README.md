@@ -23,6 +23,16 @@ https://data.humdata.org/dataset/positive-cases-of-covid-19-in-colombia
 
 
 ## 2. Ingesta y Almacenamiento de datos
+Se crea el bucket
+![Ingesta-1](screenshots/bucketcreado.jpeg) 
+Se cargan los datasets
+![Ingesta-2](screenshots/datasetsins3.jpeg) 
+
+Se realiza la ingesta 
+![Ingesta-3](screenshots/lecturadatasets.jpeg)
+
+Notebook:
+![Notebook](screenshots/.notebook.jpeg)
 
 ## 3. Procesamiento: Análisis exploratorio de datos con pyspark
 
